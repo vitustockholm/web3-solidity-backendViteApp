@@ -5,6 +5,7 @@
 \*for visual studio users install Extension VS ,,Solidity,,\*
 
 ### npx hardhat run scripts/deploy.js --network ropstein
+*** remember contract abi number for storefront client application interaction***
 
 #Hardhat Project
 
