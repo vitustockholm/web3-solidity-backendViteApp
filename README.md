@@ -1,3 +1,6 @@
+BACKEND smart_contracts inter-action 
+  for rendering transactions
+
 # npm init
 
 ## npm instal --save-dev @nomiclabs/hardhat-ethers @nomiclabs/hardhat-waffle chai ethereum-waffle ethers hardhat
