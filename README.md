@@ -1,4 +1,4 @@
-BACKEND smart_contracts inter-action 
+BACKEND smart_contracts inter-action at ViteApp FrontendApplication
   for rendering transactions
 
 # npm init
