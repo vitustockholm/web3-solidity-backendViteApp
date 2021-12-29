@@ -1,4 +1,5 @@
 npm init
+
 npm instal --save-dev @nomiclabs/hardhat-ethers @nomiclabs/hardhat-waffle chai ethereum-waffle ethers hardhat
 
 \*for visual studio users install Extension VS ,,Solidity,,\*
