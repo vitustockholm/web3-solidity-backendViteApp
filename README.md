@@ -1,10 +1,10 @@
-npm init
+# npm init
 
-npm instal --save-dev @nomiclabs/hardhat-ethers @nomiclabs/hardhat-waffle chai ethereum-waffle ethers hardhat
+## npm instal --save-dev @nomiclabs/hardhat-ethers @nomiclabs/hardhat-waffle chai ethereum-waffle ethers hardhat
 
 \*for visual studio users install Extension VS ,,Solidity,,\*
 
-npx hardhat run scripts/deploy.js --network ropstein
+### npx hardhat run scripts/deploy.js --network ropstein
 
 #Hardhat Project
 
