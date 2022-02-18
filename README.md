@@ -1,4 +1,5 @@
 BACKEND smart_contracts inter-action at ViteApp FrontendApplication
+works on chrome and firefox browsers
   for rendering transactions
 
 # npm init
